@@ -37,5 +37,12 @@ Based on a [modified](https://github.com/e33io/sovran-fonts/tree/main/SovranSeri
 
 &nbsp;
 
+## Install (Linux)
+```
+curl -s https://raw.githubusercontent.com/e33io/sovran-fonts/refs/heads/main/install.sh | sh
+```
+
+&nbsp;
+
 ### License
 [SIL OPEN FONT LICENSE](https://github.com/e33io/sovran-fonts/blob/main/LICENSE)
