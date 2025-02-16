@@ -6,6 +6,8 @@ Sovran font family
 
 ## SovranMono
 
+![SovranMono characters sample screenshot](https://i.e33.io/screenshots/SovranMono-v1.0.png)
+
 Based on a [modified](https://github.com/e33io/sovran-fonts/tree/main/SovranMono/changelog) version of [IBM Plex Mono](https://www.ibm.com/plex) with additional [Nerd Font](https://www.nerdfonts.com) patched versions
 - [SovranMono](https://github.com/e33io/sovran-fonts/tree/main/SovranMono/SovranMono)
 - [SovranMono Nerd Font](https://github.com/e33io/sovran-fonts/tree/main/SovranMono/SovranMono-Nerd)
