@@ -1,0 +1,23 @@
+SovranMono changelog
+
+-----------------------------------------------------------------------
+
+v1.0
+
+- updated the letter g and the number 0 character styles
+
+- updated the parenthesis () and bracket [] {} character styles
+
+- updated the slash and bar \ | / character styles
+
+- updated the numbersign # character style
+
+- updated the tilde ~ character style
+
+- updated the regular font weight from 400 to 450-equivalent
+
+- updated the bold font weight from 700 to 600-equivalent
+
+- added font variants patched with Nerd Font icons
+
+-----------------------------------------------------------------------
