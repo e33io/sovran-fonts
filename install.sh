@@ -5,7 +5,7 @@
 # URL: https://github.com/e33io/sovran-fonts/blob/main/install.sh
 # =============================================================================
 
-if [ ! -f "/usr/bin/git" ]; then
+if ! command -v git > /dev/null 2>&1; then
     echo "========================================================================"
     echo "This script requires git. Install git and try again."
     echo "========================================================================"
